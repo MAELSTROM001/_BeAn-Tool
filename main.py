@@ -3458,7 +3458,7 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.markdown("© 2025 Structural Beam Analysis Tool | Created with Streamlit by JW")
+    st.markdown("© 2025 Structural Beam Analysis Tool | Created by JW")
 
 
 if __name__ == "__main__":
