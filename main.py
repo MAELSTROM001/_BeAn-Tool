@@ -1,9 +1,6 @@
 # ======================================================================
 # Beam Analysis Standalone Application
 # ======================================================================
-# This is a standalone version of the Beam Analysis application.
-# It combines all modules into a single file for easier offline use.
-#
 # Sections:
 # 1. Imports and Setup
 # 2. ICONS (Beam and Load Icons)
